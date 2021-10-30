@@ -1,0 +1,239 @@
+{
+  "aliasM": "extra-clips-blueprint",
+  "allowRemoval": false,
+  "asyncCollection": false,
+  "classNameM": "",
+  "collectionIdM": "20278314275149848268976386669952526109",
+  "collectionMandatoryParamM": "",
+  "collectionRequest": "",
+  "componentIdM": "content-grid",
+  "contentL": [
+    {
+      "id": "3302699",
+      "isFavoriteM": false,
+      "isNewM": false,
+      "kind": "video",
+      "videoTypeM": "CLIP",
+      "titleM": "Inside the Episode: Triple Jeopardy",
+      "descriptionM": "Karen gives Deon an amusing list of requirements for their nanny search!",
+      "scheduleStartM": "",
+      "scheduleEndM": "",
+      "isLiveM": "",
+      "imageM": {
+        "alias": "",
+        "kind": "default",
+        "default": true,
+        "height": 1080,
+        "width": 1920,
+        "src": "https://us1-test-images.disco-api.com/2021/06/30/57f2d62a-69fd-3d23-bbfa-69cd0baba0a6.jpeg",
+        "title": "",
+        "description": "",
+        "cropCenter": ""
+      },
+      "expandedImageM": {
+        "alias": "",
+        "kind": "cover_artwork",
+        "default": true,
+        "height": 3000,
+        "width": 3000,
+        "src": "https://us1-test-images.disco-api.com/2021/06/30/7550315a-3ced-3934-91eb-8f2a7fcfced1.jpeg",
+        "title": "",
+        "description": "",
+        "cropCenter": ""
+      },
+      "linkM": "/video/doubling-down-with-the-derricos-tlc-atve-us/inside-the-episode-triple-jeopardy",
+      "progressM": "",
+      "channelLogoM": {
+        "alias": "",
+        "kind": "logo_attribution",
+        "default": true,
+        "height": 500,
+        "width": 1037,
+        "src": "https://us1-test-images.disco-api.com/2020/08/18/3cf2461a-ebea-3eb5-a77e-ede9985f5fa0.png",
+        "title": "",
+        "description": "",
+        "cropCenter": ""
+      },
+      "channelRouteM": {
+        "canonical": true,
+        "url": "/channel/tlc"
+      },
+      "channelAttrM": {
+        "alternateId": "tlc",
+        "customAttributes": {},
+        "description": "",
+        "geoRestrictions": "",
+        "hasLiveStream": true,
+        "longDescription": "",
+        "identifiers": "",
+        "contentDescriptors": [],
+        "contentRatings": [
+          {
+            "system": "US-TV",
+            "code": "TV-14"
+          }
+        ],
+        "channelCode": "TLC",
+        "name": "TLC",
+        "packages": ["Tlc"],
+        "playbackAllowed": false
+      },
+      "channelIdM": "TLC",
+      "showNameM": "Doubling Down with the Derricos",
+      "showUrlM": "/show/doubling-down-with-the-derricos-tlc-atve-us",
+      "playbackAllowed": false,
+      "badgeM": "",
+      "airDateM": "2020-08-26T02:05:00.000Z",
+      "publishStartM": "2021-05-31T05:00:00.000Z",
+      "ratingM": "TV-PG",
+      "episodeNumberM": "",
+      "longDescriptionM": "Take an inside look as Karen gives Deon a long and amusing list of requirements for their nanny search!",
+      "seasonNumberM": "",
+      "videoDurationM": 288054,
+      "broadcastTypeM": "",
+      "parentIdM": "",
+      "imageFallbackList": [
+        {
+          "alias": "",
+          "kind": "default",
+          "default": true,
+          "height": 1080,
+          "width": 1920,
+          "src": "https://us1-test-images.disco-api.com/2021/06/30/57f2d62a-69fd-3d23-bbfa-69cd0baba0a6.jpeg",
+          "title": "",
+          "description": "",
+          "cropCenter": ""
+        },
+        {
+          "alias": "",
+          "kind": "cover_artwork",
+          "default": true,
+          "height": 3000,
+          "width": 3000,
+          "src": "https://us1-test-images.disco-api.com/2021/06/30/7550315a-3ced-3934-91eb-8f2a7fcfced1.jpeg",
+          "title": "",
+          "description": "",
+          "cropCenter": ""
+        }
+      ]
+    },
+    {
+      "id": "3302673",
+      "isFavoriteM": false,
+      "isNewM": false,
+      "kind": "video",
+      "videoTypeM": "CLIP",
+      "titleM": "Inside the Episode: Multiple Aftershocks",
+      "descriptionM": "Deon shares a favorite (and hilarious!) moment that didn't make the show.",
+      "scheduleStartM": "",
+      "scheduleEndM": "",
+      "isLiveM": "",
+      "imageM": {
+        "alias": "",
+        "kind": "default",
+        "default": true,
+        "height": 1080,
+        "width": 1920,
+        "src": "https://us1-test-images.disco-api.com/2020/08/23/a9b84ead-4f56-3856-9672-bd8a3b148de2.jpeg",
+        "title": "",
+        "description": "",
+        "cropCenter": ""
+      },
+      "expandedImageM": {
+        "alias": "",
+        "kind": "cover_artwork",
+        "default": true,
+        "height": 3000,
+        "width": 3000,
+        "src": "https://us1-test-images.disco-api.com/2021/06/30/7550315a-3ced-3934-91eb-8f2a7fcfced1.jpeg",
+        "title": "",
+        "description": "",
+        "cropCenter": ""
+      },
+      "linkM": "/video/doubling-down-with-the-derricos-tlc-atve-us/inside-the-episode-multiple-aftershocks",
+      "progressM": "",
+      "channelLogoM": {
+        "alias": "",
+        "kind": "logo_attribution",
+        "default": true,
+        "height": 500,
+        "width": 1037,
+        "src": "https://us1-test-images.disco-api.com/2020/08/18/3cf2461a-ebea-3eb5-a77e-ede9985f5fa0.png",
+        "title": "",
+        "description": "",
+        "cropCenter": ""
+      },
+      "channelRouteM": {
+        "canonical": true,
+        "url": "/channel/tlc"
+      },
+      "channelAttrM": {
+        "alternateId": "tlc",
+        "customAttributes": {},
+        "description": "",
+        "geoRestrictions": "",
+        "hasLiveStream": true,
+        "longDescription": "",
+        "identifiers": "",
+        "contentDescriptors": [],
+        "contentRatings": [
+          {
+            "system": "US-TV",
+            "code": "TV-14"
+          }
+        ],
+        "channelCode": "TLC",
+        "name": "TLC",
+        "packages": ["Tlc"],
+        "playbackAllowed": false
+      },
+      "channelIdM": "TLC",
+      "showNameM": "Doubling Down with the Derricos",
+      "showUrlM": "/show/doubling-down-with-the-derricos-tlc-atve-us",
+      "playbackAllowed": false,
+      "badgeM": "",
+      "airDateM": "2020-08-19T02:05:00.000Z",
+      "publishStartM": "2021-05-31T05:00:00.000Z",
+      "ratingM": "TV-PG",
+      "episodeNumberM": "",
+      "longDescriptionM": "Deon shares one of his favorite (and one of the most-hilarious!) moments with the triplins that didn't make the show.",
+      "seasonNumberM": "",
+      "videoDurationM": 366466,
+      "broadcastTypeM": "",
+      "parentIdM": "",
+      "imageFallbackList": [
+        {
+          "alias": "",
+          "kind": "default",
+          "default": true,
+          "height": 1080,
+          "width": 1920,
+          "src": "https://us1-test-images.disco-api.com/2020/08/23/a9b84ead-4f56-3856-9672-bd8a3b148de2.jpeg",
+          "title": "",
+          "description": "",
+          "cropCenter": ""
+        },
+        {
+          "alias": "",
+          "kind": "cover_artwork",
+          "default": true,
+          "height": 3000,
+          "width": 3000,
+          "src": "https://us1-test-images.disco-api.com/2021/06/30/7550315a-3ced-3934-91eb-8f2a7fcfced1.jpeg",
+          "title": "",
+          "description": "",
+          "cropCenter": ""
+        }
+      ]
+    }
+  ],
+  "internalNameM": "extra-clips-blueprint",
+  "kind": "standard",
+  "metaM": {
+    "itemsCurrentPage": 1,
+    "itemsPageSize": 30,
+    "itemsTotalPages": 4,
+    "recommendations": ""
+  },
+  "titleM": "Extras"
+}
